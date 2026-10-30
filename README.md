@@ -1,14 +1,6 @@
-<div align="center">
-
-# 💫 About Me
+<div align="left">
 
 **Computer Science Student from Italy 🇮🇹**
-
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tdm_kyo)
-
-## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -23,7 +15,7 @@
 
 ---
 
-## ⚡ SYSTEM MESSAGE
+
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Open%20Source%20Is%20Love&fontSize=38&fontColor=00F5FF&fontAlign=50&fontAlignY=55&animation=twinkling&desc=CODE%20THE%20FUTURE&descSize=12&descColor=FF003C&descAlignY=85" width="100%" />
 
