@@ -17,7 +17,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Open%20Source%20Is%20Love&fontSize=38&fontColor=00F5FF&fontAlign=50&fontAlignY=55&animation=twinkling&desc=CODE%20THE%20FUTURE&descSize=12&descColor=FF003C&descAlignY=85" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Open%20Source%20Is%20Love&fontSize=38&fontColor=00F5FF&fontAlign=50&fontAlignY=55&animation=twinkling" width="100%" />
 
 ---
 
