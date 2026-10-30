@@ -13,7 +13,7 @@ Computer science student from italy, open source is love <3
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tdm-kyo&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![]("Open source is love)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=tdm-kyo&icon=1&color=4)](https://visitcount.itsvg.in)
