@@ -5,6 +5,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Badge" />
 
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=tdm-kyo&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false" />
