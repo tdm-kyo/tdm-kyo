@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Open%20Source%20Is%20Love&fontSize=38&fontColor=DC143C&fontAlign=50&fontAlignY=55&animation=twinkling" width="100%" />
 
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)
