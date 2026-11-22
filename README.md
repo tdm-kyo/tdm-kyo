@@ -11,10 +11,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)
 
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=tdm-kyo&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=tdm-kyo&theme=shadow_red&hide_border=true" />
-
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tdm-kyo&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tdm-kyo&style=for-the-badge&color=ff003c&label=PROFILE+VIEWS)
