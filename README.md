@@ -13,8 +13,6 @@
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tdm-kyo&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=tdm-kyo&style=for-the-badge&color=ff003c&label=PROFILE+VIEWS)
-
 </div>
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
