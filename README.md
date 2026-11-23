@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Open%20Source%20Is%20Love&fontSize=38&fontColor=DC143C&fontAlign=50&fontAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Open%20Source%20Is%20Love&fontSize=38&fontColor=DC143c&fontAlign=50&fontAlignY=55&animation=twinkling" width="100%" />
 
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
